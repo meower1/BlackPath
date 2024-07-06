@@ -68,7 +68,7 @@ export function Userstats() {
       <footer className="bg-card py-4 px-6 border-t">
         <div className="flex items-center justify-between">
           <p className="text-xs text-muted-foreground">
-            &copy; NekoTeam 2024. All rights reserved.
+            &copy; NekoTeam 2024 VPN Service. All rights reserved.
           </p>
           <nav className="flex items-center gap-4">
             <Link

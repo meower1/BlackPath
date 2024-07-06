@@ -38,7 +38,7 @@ export function Signup() {
           <Button className="w-full">Sign in</Button>
         </CardFooter>
         <div className="mt-4 text-center text-sm text-muted-foreground">
-          made with ❤️ by Amin & Mohrez
+          Made with ❤️ by Amin & Mohrez
         </div>
       </Card>
     </div>
